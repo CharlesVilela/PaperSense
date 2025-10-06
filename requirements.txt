@@ -1,0 +1,7 @@
+ollama
+transformers
+torch
+faiss-cpu
+PyPDF2
+streamlit
+sentence-transformers
