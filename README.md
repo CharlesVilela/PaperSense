@@ -1,7 +1,4 @@
 ﻿# PaperSense
-
- Perfeito 👏 — aqui vai uma **descrição completa e clara do projeto *PaperSense***, escrita de forma que você possa usar tanto na documentação (ex: `README.md`) quanto na página do app (ex: cabeçalho do Streamlit).
-
 ---
 
 ## 🧠 **PaperSense — Entendendo Conhecimento, um Artigo de Cada Vez**
@@ -73,6 +70,7 @@
 * [ ] Geração de citações automáticas
 * [ ] Opção de áudio (leitura da resposta)
 * [ ] Interface com histórico de contexto persistente
+
 
 
 
